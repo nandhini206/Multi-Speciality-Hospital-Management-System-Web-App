@@ -1,6 +1,4 @@
 # Multi-Speciality-Hospital-Management-System-Web-App
-
-# Multi-Speciality-Hospital-Management-System-Web-App
 The Multi-Speciality Hospital Management System is a web application that utilizes HTML for structuring web content, CSS for styling, and JavaScript for interactive features. PHP serves as the server-side scripting language, handling requests and interacting with the MySQL database. HTML defines the application's structure, CSS styles its appearance, and JavaScript enhances user interactivity. PHP manages server-side processes, ensuring seamless communication with the database to store and retrieve crucial information such as patient records, appointments, and medical data. This integrated technology stack allows for the creation of a robust and dynamic hospital management system, streamlining administrative tasks and improving overall efficiency in healthcare operations.
 
 ## Demo WebApp
